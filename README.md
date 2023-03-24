@@ -3,4 +3,4 @@ This is a Chess Engine built by me from scratch as a C++ console application pro
 Finally, I am looking forward to increasing the depth, linking the engine with a standard chess opening database, and making an appropriate UI.
 
 # Notes
-Every single detail will be published here as a guide on how to use the engine.
+Every single detail will be published here in a month as a guide on how to use the engine.
